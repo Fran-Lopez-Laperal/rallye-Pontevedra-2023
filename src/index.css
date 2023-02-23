@@ -1,0 +1,25 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+body{
+    font-family:'Roboto', sans-serif ;
+
+}
+
+
+section{
+    width: 100%;
+}
+
+ hr{
+    border:none;
+    border-top:3px dashed red;
+    color:red;
+    background-color:red;
+    height:1;
+    width:100%;
+ }
