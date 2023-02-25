@@ -1,7 +1,9 @@
 .bulletin-board img{
+    border-radius: 5px;
     width: 270px;
     max-width: 100%;
     object-fit: cover;
+    box-shadow: 5px 5px 5px grey;
 }
 
 .bulletin-board img:hover{

@@ -15,35 +15,35 @@ function MarqueeSponsors() {
                 <div className='sponsors-list'>
               
                         <a target='_blank' rel="noreferrer" href='http://www.inmobiliariabamarti.com/' className='image-sponsor'>
-                            <img src={Bamarti} alt={Bamarti} />
+                            <img class="imgs-head" src={Bamarti} alt={Bamarti} />
                         </a>
 
                         <a target='_blank' rel="noreferrer" href='https://starkausavil.es/' className='image-sponsor'>
-                            <img src={Ausavil} alt={Ausavil} />
+                            <img class="imgs-head" src={Ausavil} alt={Ausavil} />
                         </a>
 
                         <a target='_blank' rel="noreferrer" href='https://www.bonpolloavigal.com/' className='image-sponsor'>
-                            <img src={Bonpollo} alt={Bonpollo} />
+                            <img class="imgs-head" src={Bonpollo} alt={Bonpollo} />
                         </a>
 
                         <a target='_blank' rel="noreferrer" href='https://www.caetanoformulagalicia.es/' className='image-sponsor'>
-                            <img src={Caetano} alt={Caetano} />
+                            <img class="imgs-head" src={Caetano} alt={Caetano} />
                         </a>
                    
                         <a target='_blank' rel="noreferrer" href='https://www.furgoline.com/' className='image-sponsor'>
-                            <img src={Furgoline} alt={Furgoline} />
+                            <img class="imgs-head" src={Furgoline} alt={Furgoline} />
                         </a>
 
                         <a target='_blank' rel="noreferrer" href='http://www.rcnsanxenxo.com/' className='image-sponsor'>
-                            <img src={Nautico} alt={Nautico} />
+                            <img class="imgs-head" src={Nautico} alt={Nautico} />
                         </a>
 
                         <a target='_blank' rel="noreferrer" href='https://www.racingdakart.com/proyecto/racing-dakart-sanxenxo/' className='image-sponsor'>
-                            <img src={Dakar} alt={Dakar} />
+                            <img class="imgs-head" src={Dakar} alt={Dakar} />
                         </a>
 
                         <a target='_blank' rel="noreferrer" href='https://rspremiumcar.com/' className='image-sponsor'>
-                            <img src={RsAuto} alt={RsAuto} />
+                            <img class="imgs-head" src={RsAuto} alt={RsAuto} />
                         </a>
                     </div>
               

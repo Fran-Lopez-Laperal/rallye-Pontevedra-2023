@@ -1,4 +1,3 @@
-
 *{
     margin:0;
     padding: 0;
@@ -7,7 +6,21 @@
 
 body{
     font-family:'Roboto', sans-serif ;
-
+    background:-webkit-linear-gradient(
+        -72deg,
+    #82bcf6,
+    #d0d3f4 16%,
+    #82bcf6 21%,
+    #82bcf6 24%,
+    #82bcf6 27%,
+    #82bcf6 36%,
+    #4ca8f4 45%,
+    #82bcf6 60%,
+    #49a0f2 72%,
+    #82bcf6 80%,
+    #82bcf6 84%,
+    #82bcf6
+    ) ;
 }
 
 

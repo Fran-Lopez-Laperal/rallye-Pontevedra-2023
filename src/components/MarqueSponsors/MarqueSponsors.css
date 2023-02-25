@@ -12,6 +12,13 @@
     object-fit: contain;
 }
 
+
+/*  TRUCAZO PARA QUITARLE EL FONDO BLANCO CON CSS */
+.imgs-head{
+    filter:brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
 /* .image-sponsor img{
     margin: 0px 10px;
 } */
