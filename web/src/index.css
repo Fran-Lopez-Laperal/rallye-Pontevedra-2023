@@ -8,18 +8,18 @@ body{
     font-family:'Roboto', sans-serif ;
     background:-webkit-linear-gradient(
         -72deg,
-    #a4cef8,
+    #ccf0fd,
     #d0d3f4 16%,
     #d0d3f4 21%,
-    #a4cef8 24%,
-    #a4cef8 27%,
+    #ccf0fd 24%,
+    #ccf0fd 27%,
     #a4cef8 36%,
     #d0d3f4 45%,
-    #a4cef8 60%,
+    #ccf0fd 60%,
     #d0d3f4 72%,
-    #a4cef8 80%,
-    #a4cef8 84%,
-    #a4cef8
+    #ccf0fd 80%,
+    #ccf0fd 84%,
+    #ccf0fd
     ) ;
 }
 
